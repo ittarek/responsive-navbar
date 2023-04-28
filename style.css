@@ -85,7 +85,7 @@ header ul li a:hover {
   border-bottom: 2px solid cadetblue;
 }
 
-header.menu {
+header .menu {
   font-size: 2.5em;
   display: none;
 }
